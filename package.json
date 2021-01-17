@@ -19,5 +19,8 @@
         "postcss": "^8.1.14",
         "pusher-js": "^7.0.2",
         "stimulus": "^2.0.0"
+    },
+    "dependencies": {
+        "alpinejs": "^2.8.0"
     }
 }
